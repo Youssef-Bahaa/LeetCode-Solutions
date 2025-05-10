@@ -12,13 +12,21 @@
  */
 class Solution {
 public:
-    vector<string> v;
+    string mini = "";
+    int cnt = 0;
+
     bool is_leaf(TreeNode* root) { return !root->left and !root->right; }
+
     void dfs(TreeNode* root, string s) {
 
         if (is_leaf(root)) {
-            v.push_back(char(root->val + 'a') + s);
-            return;
+            string cur = char(root->val + 'a') + s;
+            if (!cnt) {
+                cnt++;
+                mini = cur;
+                return;
+            }
+            mini = min(cur, mini);
         }
 
         if (root->left)
@@ -30,10 +38,6 @@ public:
 
     string smallestFromLeaf(TreeNode* root) {
         dfs(root, "");
-        string ans = v[0];
-        for (int i = 1; i < v.size(); ++i) 
-            ans = min(ans , v[i]);
-            
-        return ans;
+        return mini;
     }
 };
