@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 <!---LeetCode Topics End-->
