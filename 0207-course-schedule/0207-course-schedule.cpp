@@ -1,45 +1,52 @@
 class Solution {
+    vector<vector<int>> adj;
+    vector<int> indegree;
+    vector<bool> vis;
+
+    bool bfs(int n) {
+        queue<int> q;
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            if(!indegree[i]) {
+                q.push(i);
+                vis[i] = true;
+            }
+        }
+
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
+            ans++;
+            for (auto v : adj[u]) {
+                if (!vis[v]) {
+                    indegree[v]--;
+
+                    if (!indegree[v]) {
+                        vis[v] = true;
+                        q.push(v);
+                    }
+                }
+            }
+        }
+        return ans == n;
+    }
 public:
-    typedef vector<vector<int>> GRAPH;
-
-    void add_directed_edge(GRAPH& Graph, int from, int to) {
-        Graph[from].push_back(to);
-    }
-
-    bool cycle = 0;
-
-    void dfs(GRAPH& Graph, vector<int>& vis, int start) {
-
-        vis[start] = 2;
-
-        for (auto i : Graph[start]) {
-            if (!vis[i])
-                dfs(Graph, vis, i);
-
-            else if (vis[i] == 2) {
-                cycle = 1;
-                return;
-            }
-        }
-
-        vis[start] = 1;
-    }
-
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        GRAPH graph(numCourses);
-        vector<int> vis(numCourses, 0);
+        int n = numCourses;
+        int sz = prerequisites.size();
 
-        for (int i = 0; i < prerequisites.size(); i++) {
-            add_directed_edge(graph, prerequisites[i][0], prerequisites[i][1]);
-        }
+        adj.assign(n, {});
+        indegree.assign(n, 0);
+        vis.assign(n, false);
 
-        for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) {
-                dfs(graph, vis, i);
-                if (cycle)
-                    return 0;
+        for (int i = 0; i < sz; i++) {
+            auto vec = prerequisites[i];
+            for (int j = 0; j < 2; j++) {
+                adj[vec[0]].push_back(vec[1]);
+                indegree[vec[1]]++;
             }
         }
-        return 1;
+        
+        return bfs(n);
     }
 };
