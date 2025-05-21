@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -38,5 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
