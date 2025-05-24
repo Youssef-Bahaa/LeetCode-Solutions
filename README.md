@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
+| [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
