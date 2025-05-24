@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
 ## Binary Tree
 |  |
 | ------- |
