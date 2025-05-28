@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [1916-find-center-of-star-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
