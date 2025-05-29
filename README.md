@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
