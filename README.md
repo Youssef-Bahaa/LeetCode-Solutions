@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Depth-First Search
 |  |
