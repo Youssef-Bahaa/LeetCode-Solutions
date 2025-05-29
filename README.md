@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Counting
@@ -45,6 +46,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
@@ -92,6 +94,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
