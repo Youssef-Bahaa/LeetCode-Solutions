@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [2083-three-divisors](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2083-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -123,4 +124,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
