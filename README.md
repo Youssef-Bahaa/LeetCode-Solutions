@@ -65,6 +65,7 @@
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0310-minimum-height-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [1916-find-center-of-star-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
