@@ -34,6 +34,7 @@
 | [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -65,6 +66,7 @@
 | [0210-course-schedule-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -75,6 +77,7 @@
 | [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
