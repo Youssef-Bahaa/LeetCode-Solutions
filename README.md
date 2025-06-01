@@ -27,6 +27,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,12 +40,14 @@
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
