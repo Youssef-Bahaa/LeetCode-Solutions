@@ -12,35 +12,14 @@
  */
 class Solution {
 public:
-    void bfs(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        int level = 0;
-        while (q.size()) {
-            int sz = q.size();
-            vector<TreeNode*> oddlevelnodes;
-
-            while (sz--) {
-                TreeNode* temp = q.front();
-                q.pop();
-                if(temp->left)q.push(temp->left);
-                if(temp->right)q.push(temp->right);
-                
-                oddlevelnodes.push_back(temp);
-            }
-            if (level % 2 == 0){level++;
-                continue;
-            }
-            level++;
-            
-            for(int i = 0 ; i < oddlevelnodes.size() /2; i++)
-                swap(oddlevelnodes[i]->val , oddlevelnodes[oddlevelnodes.size() - i -1]->val);
-            
-            
-        }
+    void dfs(TreeNode* root1 , TreeNode* root2,  int level) {
+        if(!root1 or !root2)return;
+        if(root1->left and (level + 1)%2)swap(root1->left->val ,root2->right->val);
+        dfs(root1->left , root2->right, level + 1);
+        dfs(root1->right , root2->left, level + 1);
     }
     TreeNode* reverseOddLevels(TreeNode* root) {
-        bfs(root);
+        dfs(root ,root, 0);
         return root;
     }
 };
