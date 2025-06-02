@@ -18,11 +18,14 @@ public:
 
 class Solution {
 public:
-    void dfs(Node* root){
-        if(!root)return;
+    void dfs(Node* root) {
+        if (!root)
+            return;
 
-        if(root->left)root->left->next = root->right;
-        if(root->right and root->next)root->right->next = root->next->left;
+        if (root->left)
+            root->left->next = root->right;
+        if (root->right and root->next)
+            root->right->next = root->next->left;
 
         dfs(root->left);
         dfs(root->right);
