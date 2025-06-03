@@ -31,6 +31,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -60,6 +61,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
@@ -85,6 +87,7 @@
 | [0207-course-schedule](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -165,6 +168,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Backtracking
 |  |
