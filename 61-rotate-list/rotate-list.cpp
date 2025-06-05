@@ -11,26 +11,39 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(!k or !head)return head;
-
+        if(!head or !k)return head;
+        ListNode* temp = head;
+        
+        int sz = 0 ;
         int rot = 0;
-        int size = 0;
-        deque<ListNode*> dq;
-        while(head){
-            dq.push_back(head);
-            head = head->next;
-            size++;
+
+        while(temp){
+            sz++;
+            temp = temp ->next;
         }
-        rot = k % size;
+
+
+        rot = k % sz;
 
         while(rot--){
-            dq.back()->next = dq.front();
-            dq.push_front(dq.back());
-            dq.pop_back();
-            dq.back()->next = nullptr;
+            ListNode* tail = head;
+            ListNode* newTail = head;
+
+            while(tail->next){
+                tail = tail->next;
+            }
+
+            while(newTail->next != tail){
+                newTail = newTail->next;
+            }
+            
+            tail->next = head;
+            newTail->next = nullptr;
+            head = tail;
+            
         }
 
-        return dq.front();
+        return head;
 
     }
 };
