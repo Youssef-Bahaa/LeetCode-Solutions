@@ -36,6 +36,7 @@
 | [0226-invert-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -68,6 +69,7 @@
 | [0226-invert-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -147,6 +150,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Union Find
 |  |
@@ -179,6 +183,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,4 +197,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0061-rotate-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
