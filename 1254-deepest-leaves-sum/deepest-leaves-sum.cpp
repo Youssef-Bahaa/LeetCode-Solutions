@@ -12,31 +12,32 @@
  */
 class Solution {
 public:
-    int maxi = 0;
-
-    int depth(TreeNode* root) {
-        if (!root)
-            return 0;
-        return max(depth(root->left), depth(root->right)) + 1;
-    }
+    int sum = 0;
+    int maxi = INT_MIN;
 
     bool isleaf(TreeNode* root) {
         return root and !root->right and !root->left;
     }
 
-    void dfs(TreeNode* root, int cur, int maxdepth) {
+    void dfs(TreeNode* root, int cur) {
         if (!root)
             return;
-        if (isleaf(root) and cur == maxdepth)
-            maxi += root->val;
 
-        dfs(root->left, cur + 1, maxdepth);
-        dfs(root->right, cur + 1, maxdepth);
+        if (isleaf(root) and cur == maxi)
+            sum += root->val;
+
+        if (isleaf(root) and cur > maxi){
+            sum = root->val;
+            maxi = cur;
+        }
+
+        dfs(root->left, cur + 1);
+        dfs(root->right, cur + 1);
     }
 
     int deepestLeavesSum(TreeNode* root) {
-        int maxdepth = depth(root);
-        dfs(root, 1, maxdepth);
-        return maxi;
+
+        dfs(root, 0);
+        return sum;
     }
 };
