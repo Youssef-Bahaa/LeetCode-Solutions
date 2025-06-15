@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0367-valid-perfect-square](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2083-three-divisors](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2083-three-divisors) |
 ## Recursion
 |  |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Dynamic Programming
