@@ -9,6 +9,7 @@
 | [0792-binary-search](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -189,6 +190,7 @@
 | [0367-valid-perfect-square](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
