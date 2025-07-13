@@ -6,6 +6,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0506-relative-ranks](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0792-binary-search](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -233,10 +234,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
