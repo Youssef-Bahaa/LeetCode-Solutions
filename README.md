@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0217-contains-duplicate](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0506-relative-ranks](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0792-binary-search](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -243,6 +245,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
