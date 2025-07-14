@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2083-three-divisors](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2083-three-divisors) |
@@ -210,6 +211,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2083-three-divisors) |
 ## Binary Search Tree
 |  |
@@ -257,5 +259,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
