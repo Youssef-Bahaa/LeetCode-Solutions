@@ -154,12 +154,14 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0367-valid-perfect-square](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2083-three-divisors](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2083-three-divisors) |
 ## Recursion
 |  |
