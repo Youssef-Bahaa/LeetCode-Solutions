@@ -9,9 +9,6 @@ public:
         return res;
     }
     int addDigits(int num) {
-        if(!num)
-            return 0;
-        
         while(true){
             if(num / 10 == 0)return num;
             num = add(num);
