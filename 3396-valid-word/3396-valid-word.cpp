@@ -2,8 +2,7 @@ class Solution {
 public:
     bool isValid(string word) {
         bool minimum = word.size() >= 3;
-        bool digit = false;
-        bool letter = false;
+        bool letter_digit = false;
         bool vowel = false; 
         bool consonant = false;
         
@@ -11,9 +10,9 @@ public:
 
             char c = tolower(word[i]);
 
-            if(isdigit(c)){digit = true;continue;}
+            if(isdigit(c)){letter_digit = true;continue;}
 
-            if(c  >= 'a' and c <= 'z')letter = true;
+            if ((c  >= 'a' and c <= 'z'))letter_digit = true;
 
             else return false;
             
@@ -24,10 +23,9 @@ public:
         }
 
         cout << "min " << minimum <<endl;
-        cout << "digit " << digit <<endl;
-        cout << "letter " << letter <<endl;
+        cout << "letter " << letter_digit <<endl;
         cout << "vowel " << vowel <<endl;
         cout << "consonant " << consonant <<endl;
-        return minimum  and letter and vowel and consonant;
+        return minimum  and letter_digit and vowel and consonant;
     }
 };
