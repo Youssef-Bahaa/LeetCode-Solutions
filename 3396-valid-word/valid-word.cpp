@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isValid(string word) {
-        bool minimum = word.size() >= 3;
+        if(word.size() < 3)return false;
         bool letter_digit = false;
         bool vowel = false; 
         bool consonant = false;
@@ -22,10 +22,6 @@ public:
             else vowel = true;
         }
 
-        cout << "min " << minimum <<endl;
-        cout << "letter " << letter_digit <<endl;
-        cout << "vowel " << vowel <<endl;
-        cout << "consonant " << consonant <<endl;
-        return minimum  and letter_digit and vowel and consonant;
+        return letter_digit and vowel and consonant;
     }
 };
