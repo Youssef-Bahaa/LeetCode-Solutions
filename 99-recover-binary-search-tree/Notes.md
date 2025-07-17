@@ -1,1 +1,1 @@
-<h2>recover-binary-search-tree Notes</h2><hr>[ Time taken: 22 m 51 s ]
+<h2>recover-binary-search-tree Notes</h2><hr>[ Time taken: 39 m 40 s ]
