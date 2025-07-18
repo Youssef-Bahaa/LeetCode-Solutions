@@ -54,6 +54,7 @@
 | [1254-deepest-leaves-sum](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -96,6 +97,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
@@ -137,6 +139,7 @@
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
