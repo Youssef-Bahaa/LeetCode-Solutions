@@ -19,13 +19,6 @@ public:
             if (idx == b)
                 t1 = temp->next;
 
-            if (idx >= a and idx <= b) {
-                ListNode* tmp = temp->next;
-                delete temp;
-                temp = tmp;
-                idx++;
-                continue;
-            }
             idx++;
             temp = temp->next;
         }
