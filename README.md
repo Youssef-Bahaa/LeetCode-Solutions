@@ -172,6 +172,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
+| [1765-merge-in-between-linked-lists](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 ## Math
 |  |
 | ------- |
