@@ -28,6 +28,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
@@ -110,6 +111,7 @@
 | [0344-reverse-string](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Stack
