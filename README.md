@@ -109,6 +109,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Stack
