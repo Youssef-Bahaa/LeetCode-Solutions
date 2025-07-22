@@ -20,6 +20,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3778-transform-array-by-parity](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3778-transform-array-by-parity](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3778-transform-array-by-parity](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Interactive
 |  |
 | ------- |
