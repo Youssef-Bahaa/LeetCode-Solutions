@@ -16,6 +16,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -272,6 +273,7 @@
 | [0506-relative-ranks](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1256-rank-transform-of-an-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3778-transform-array-by-parity](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Interactive
@@ -292,4 +294,12 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
