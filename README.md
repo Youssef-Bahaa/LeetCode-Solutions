@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
