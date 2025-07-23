@@ -11,6 +11,7 @@
 | [0506-relative-ranks](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0792-binary-search](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1428-jump-game-iii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
@@ -125,6 +126,7 @@
 | [0020-valid-parentheses](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -178,6 +180,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
@@ -305,4 +308,8 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/Youssef-Bahaa/LeetCode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
