@@ -10,27 +10,23 @@
  */
 class Solution {
 public:
-
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
-        unordered_set <int> s;
-        while(head and head->next){
-            if(head->val == head->next->val){
-                head->next = head->next->next;
-                s.insert(head->val);
-            }
-            else
+        ListNode* prev = dummy;
+        while (head) {
+            if (head->next and head->val == head->next->val) {
+                int dp = head->val;
+                while (head and head->val == dp)
+                    head = head->next;
+
+                prev->next = head;
+            } else {
+                prev = head;
                 head = head->next;
-        }
-        ListNode* cur = dummy;
-        while(cur and cur->next){
-            if(s.count(cur->next->val)){
-                cur->next = cur->next->next;
             }
-            else
-                cur = cur->next;
         }
+
         return dummy->next;
     }
 };
