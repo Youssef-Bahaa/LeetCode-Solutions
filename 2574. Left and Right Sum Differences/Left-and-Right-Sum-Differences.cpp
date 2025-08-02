@@ -4,7 +4,6 @@ public:
         int n = nums.size();
         vector<int> leftsum(n);
         vector<int> rightsum(n);
-        vector<int> ans;
 
         int lsum = 0, rsum = 0;
         for (int i = 0; i < n; i++) {
@@ -16,8 +15,8 @@ public:
         }
 
         for (int i = 0; i < n; i++) {
-            ans.push_back(abs(leftsum[i] - rightsum[i]));
+            leftsum[i] = abs(leftsum[i] - rightsum[i]);
         }
-        return ans;
+        return leftsum;
     }
 };
