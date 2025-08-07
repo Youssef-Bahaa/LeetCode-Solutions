@@ -12,29 +12,19 @@ class Solution {
 public:
     ListNode* removeNodes(ListNode* h) {
         stack<ListNode*> st;
-        ListNode *prev = 0, *temp = 0;
         while (h) {
-            temp = h->next;
-            h->next = prev;
-            prev = h;
-            h = temp;
-        }
-        h = prev;
-        while (h) {
-            if (!st.size() or (st.size() and h->val >= st.top()->val))
-                st.push(h);
+            while (st.size() and h->val > st.top()->val)
+                st.pop();
+            st.push(h);
             h = h->next;
         }
 
-        h = st.top();
+        ListNode* head = nullptr;
         while (st.size()) {
-            ListNode* cur = st.top();
+            st.top()->next = head;
+            head = st.top();
             st.pop();
-            if (st.size())
-                cur->next = st.top();
-            else
-                cur->next = nullptr;
         }
-        return h;
+        return head;
     }
 };
