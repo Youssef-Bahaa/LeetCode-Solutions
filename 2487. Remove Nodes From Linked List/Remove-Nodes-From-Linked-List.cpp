@@ -10,35 +10,35 @@
  */
 class Solution {
 public:
-    ListNode* removeNodes(ListNode* head) {
+    ListNode* removeNodes(ListNode* h) {
         stack<int> st;
         vector<int> v;
-        ListNode* temp = head;
-        while (head) {
-            if (st.size() == 0) {
-                st.push(head->val);
-                head = head->next;
-                continue;
-            }
-            while (st.size() and head->val > st.top()) {
-                st.pop();
-            }
-            st.push(head->val);
-            head = head->next;
+        ListNode *prev = 0, *temp = 0;
+        while (h) {
+            temp = h->next;
+            h->next = prev;
+            prev = h;
+            h = temp;
+        }
+        h = prev;
+        while (h) {
+            if (!st.size() or (st.size() and h->val >= st.top()))
+                st.push(h->val);
+            h = h->next;
         }
         while (st.size()) {
             v.push_back(st.top());
             st.pop();
         }
-        reverse(v.begin(), v.end());
-        head = temp;
+
+        h = prev;
         for (int i = 0; i < v.size(); i++) {
             if (i == v.size() - 1)
-                head->next = nullptr;
-            head->val = v[i];
-            if (head->next)
-                head = head->next;
+                h->next = nullptr;
+            h->val = v[i];
+            if (h->next)
+                h = h->next;
         }
-        return temp;
+        return prev;
     }
 };
