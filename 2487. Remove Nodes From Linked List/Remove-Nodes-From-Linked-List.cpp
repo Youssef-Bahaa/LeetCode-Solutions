@@ -11,8 +11,7 @@
 class Solution {
 public:
     ListNode* removeNodes(ListNode* h) {
-        stack<int> st;
-        vector<int> v;
+        stack<ListNode*> st;
         ListNode *prev = 0, *temp = 0;
         while (h) {
             temp = h->next;
@@ -22,23 +21,20 @@ public:
         }
         h = prev;
         while (h) {
-            if (!st.size() or (st.size() and h->val >= st.top()))
-                st.push(h->val);
+            if (!st.size() or (st.size() and h->val >= st.top()->val))
+                st.push(h);
             h = h->next;
         }
-        while (st.size()) {
-            v.push_back(st.top());
-            st.pop();
-        }
 
-        h = prev;
-        for (int i = 0; i < v.size(); i++) {
-            if (i == v.size() - 1)
-                h->next = nullptr;
-            h->val = v[i];
-            if (h->next)
-                h = h->next;
+        h = st.top();
+        while (st.size()) {
+            ListNode* cur = st.top();
+            st.pop();
+            if (st.size())
+                cur->next = st.top();
+            else
+                cur->next = nullptr;
         }
-        return prev;
+        return h;
     }
 };
