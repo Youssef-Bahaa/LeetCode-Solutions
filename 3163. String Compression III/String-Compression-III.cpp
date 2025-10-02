@@ -2,7 +2,8 @@ class Solution {
 public:
     string compressedString(string word) {
         word += " ";
-        string ans = "";
+        string ans ;
+        ans.reserve(word.size() * 2); 
         int cnt = 1;
         for (int i = 1; i < word.size(); i++) {
             if (word[i] == word[i - 1] and cnt < 9) 
